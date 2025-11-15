@@ -1,3 +1,27 @@
+## 💰 Pricing – AI-Minister
+
+AI-Minister is a civic-tech system meant to stay accessible but also sustainable
+for long-term public use.
+
+### 🤝 For NGOs / Community Projects
+
+| Plan          | Price (CHF / month) | For who?               | What you get                                         |
+|---------------|---------------------|------------------------|------------------------------------------------------|
+| Community     | 99                  | NGOs, associations     | Document explanation, basic dashboards, 3 languages  |
+
+### 🏘️ For Gemeinden / Local Government
+
+| Plan          | Price (CHF / month) | For who?                    | What you get                                                        |
+|---------------|---------------------|-----------------------------|---------------------------------------------------------------------|
+| Gemeinde      | 399                 | Single Gemeinde / Stadt     | Meeting & letter summaries, resident-friendly texts, website texts  |
+| Region        | 799                 | Multiple Gemeinden / Region | Multi-office support, shared templates, basic transparency tools    |
+
+### 🏛️ For Government / International Bodies
+
+| Plan          | Price (CHF / month) | For who?                        | What you get                                               |
+|---------------|---------------------|---------------------------------|------------------------------------------------------------|
+| Gov / Agency  | 1,299+              | Ministries, agencies, INGO     | Tailored workflows, custom datasets, governance modules    |
+
 ## 📄 License Model (Dual License)
 
 This project uses a **Dual License** structure to support both open innovation and
