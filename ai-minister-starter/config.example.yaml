@@ -1,0 +1,7 @@
+openai:
+  api_key: "${OPENAI_API_KEY}"   # export in your shell, don't hardcode
+app:
+  default_region: "Pokhara"
+  default_language: "en"
+data:
+  path: "data"
